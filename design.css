@@ -1,0 +1,32 @@
+* {
+	margin: auto;
+}
+
+h1, h2, h3{
+font-family: "Arial", Helvetica, sans-serif;
+}
+
+h1 {
+	color: #0332A5;
+}
+
+h2	{
+	color: #47649E;
+	font-size: 16px;
+}
+
+p1, p2, p3	{
+	font-family: "Verdana", Verdana, sans-serif;
+}
+
+div {
+	width: 1000px;
+	text-align: justify;
+}
+
+h10 {
+	font-family: "Verdana", Verdana, sans-serif;
+	font-size: 40px;
+	text-align: center;
+	margin: auto;
+}
